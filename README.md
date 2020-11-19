@@ -1,7 +1,7 @@
 
 #  Egg Timer
 
-An egg timer app to boil your eggs to perfection depending on how you prefer your eggs.
+An egg timer app to boil eggs to perfection depending on how "cooked" one wants.
 
 ## Screenshots
 
